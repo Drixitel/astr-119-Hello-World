@@ -1,3 +1,3 @@
-# astr-119
-Code Repository for ASTR-119
-HW 1 graded
+# Class: astr-119 from Astronomy & Astrophysics dept. 
+- Pronouns 
+- hello world
